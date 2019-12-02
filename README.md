@@ -13,7 +13,7 @@
 </ul>
 <hr>
 <h3>getUrlSource</h3>
-<p>用于加载URL，返回网页的text文本</p>
+<p><ul><li>用于加载URL，返回网页的text文本</li></ul></p>
 <hr>
 <h3>bs4GetWeatherToday()</h3>
 <p>将传入的text文本解析</p>
