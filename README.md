@@ -1,6 +1,6 @@
 # projectNm:www.weather.com.cn 
-# git-url:https://github.com/prowerInJava/www.weather.com.cn.git
-
+# https://github.com/prowerInJava/www.weather.com.cn.git
+<hr>
 <h1>BeautifulSoup4 爬取中国天气网</h1>
 <h3>getCityMessage</h3>
 <p>用于解析city.json文件，处理传入的城市名称</p>
